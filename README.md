@@ -1,2 +1,2 @@
 # Maji_ndogo_water-accesibility
-Data Analysis projects
+This is an in depth analysis of the water accesibility problem in a fictitious country called Maji Ndogo
